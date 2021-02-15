@@ -90,3 +90,24 @@ nlu:
     - are you a human?
     - am I talking to a bot?
     - am I talking to a human?
+
+- intent: appointment
+  examples: |
+    - appointment
+    - create an appointment
+    - I want appointment
+
+- intent: todo_item
+  examples: |
+    - to do item
+    - todo item
+    - to do
+    - item
+    - I want to do item
+    - TODO item
+
+- intent: timer
+  examples: |
+    - timer
+    - I want timer
+    - time
